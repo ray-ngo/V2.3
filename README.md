@@ -1,6 +1,6 @@
 # V2.3
 
-## This version includes three component. Further information can be found at [MWCOG webpage] (www.mwcog.org)
+## This version includes three component. Further information can be found at [MWCOG webpage] www.mwcog.org
 
 ### Revise Trip Generation:  
 This component has three fixes:
